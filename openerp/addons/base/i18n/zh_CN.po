@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: openobject-server\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-23 16:26+0000\n"
-"PO-Revision-Date: 2014-11-23 06:46+0800\n"
+"PO-Revision-Date: 2014-11-23 07:13+0800\n"
 "Last-Translator: Mack <mackzxh@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -15703,7 +15703,7 @@ msgstr "值 '%s' 没在选择的字段 '%%(field)s' 中找到"
 #. module: base
 #: field:ir.actions.server,fields_lines:0
 msgid "Value Mapping"
-msgstr ""
+msgstr "值映射"
 
 #. module: base
 #: model:res.country,name:base.vu
@@ -15799,7 +15799,7 @@ msgstr "视图类型"
 #. module: base
 #: field:ir.ui.view,mode:0
 msgid "View inheritance mode"
-msgstr ""
+msgstr "视图继承模式"
 
 #. module: base
 #: help:ir.actions.act_window,view_type:0
@@ -15968,7 +15968,7 @@ msgstr "网站"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website
 msgid "Website Builder"
-msgstr ""
+msgstr "网站构建器"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_website_report
@@ -16310,7 +16310,7 @@ msgstr ""
 #. module: base
 #: constraint:res.partner:0
 msgid "You cannot create recursive Partner hierarchies."
-msgstr ""
+msgstr "不能创建递归的业务伙伴！"
 
 #. module: base
 #: code:addons/base/res/res_lang.py:193
@@ -16324,7 +16324,7 @@ msgstr ""
 #: code:addons/base/res/res_lang.py:191
 #, python-format
 msgid "You cannot delete the language which is User's Preferred Language!"
-msgstr ""
+msgstr "不能删除用户首选项使用的语言！"
 
 #. module: base
 #: sql_constraint:ir.model.data:0
